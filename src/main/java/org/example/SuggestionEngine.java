@@ -92,5 +92,6 @@ public class SuggestionEngine {
         suggestionEngine.loadDictionaryData(Paths.get( ClassLoader.getSystemResource("src/test/words.txt").getPath()));
 
         System.out.println(suggestionEngine.generateSuggestions(args[0]));
+        //Added this to test my GitHub Actions
     }
 }
