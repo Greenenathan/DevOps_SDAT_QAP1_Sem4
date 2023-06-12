@@ -1,5 +1,4 @@
-package org.example;
-
+import org.example.SuggestionEngine;
 import org.junit.jupiter.api.*;
 import java.nio.file.Path;
 import java.io.IOException;
