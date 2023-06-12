@@ -14,6 +14,7 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class SuggestionEngine {
+    //Tesing Actions
     private Map<String,Integer> wordMap = new HashMap<>();
 
     /**
